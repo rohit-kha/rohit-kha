@@ -3,7 +3,4 @@
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on Python projects.
 - 📫 How to reach me ............Linkedin =>https://www.linkedin.com/in/rohit-khadka-6a5345236/
-
-=========================================================================================================================================================
-This is my ✨ special ✨ repository because it has stored the begining of my coding story and it is still going on along with me ........................!!!!!
-=============================================================================================================================================================
+-**This is my ✨ special ✨ repository because it has stored the begining of my coding story and it is still going on along with me ........................!!!!!**
